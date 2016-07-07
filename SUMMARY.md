@@ -13,6 +13,7 @@
     * [C](编程语言/C.md)
     * [C++](编程语言/C++.md)
     * [CSS](编程语言/CSS.md)
+    * [Haskell](编程语言/Haskell.md)
     * [HTML](编程语言/HTML.md)
     * [Python](编程语言/Python.md)
     * [JavaScript](编程语言/JavaScript.md)
