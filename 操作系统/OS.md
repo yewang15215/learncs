@@ -3,3 +3,4 @@
   * [WINE 的系统结构](http://www.longene.org/techdoc/0328130001224577111.html)
 * [漫谈兼容内核](http://www.longene.org/whitebook.php)
   * [ReactOS 怎样实现系统调用](http://www.longene.org/techdoc/0453131001224576519.html)
+* [How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
