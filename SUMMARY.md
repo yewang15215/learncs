@@ -27,6 +27,7 @@
 * [调试](调试/Debug.md)
 * [数据库](数据库/SQL.md)
 * [安全](安全/Security.md)
+* [软件工程](软件工程/SE.md)
 * [后台](后台/BackEnd.md)
     * [框架](后台/Framework.md)
 * [前端](前端/FrontEnd.md)
