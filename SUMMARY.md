@@ -36,5 +36,7 @@
 * [运维](运维/OP.md)
     * [Docker](运维/Docker.md)
     * [Vagrant](运维/Vagrant.md)
-* [在线工具](在线工具/Tools.md)
+* [工具](工具/Tools.md)
+    - [在线工具](工具/ToolsOnline.md)
+* [其他](其他/Others.md)
 
