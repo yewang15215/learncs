@@ -24,7 +24,7 @@
     * [Shell](编程语言/Shell.md)
 * [算法](算法/Algorithm.md)
 * [网络](网络/Network.md)
-* [设计模式](设计模式/DP.md)
+    * [服务器](网络/Server.md)
 * [测试](测试/Test.md)
 * [调试](调试/Debug.md)
 * [数据库](数据库/SQL.md)
@@ -40,4 +40,8 @@
 * [工具](工具/Tools.md)
     * [在线工具](工具/ToolsOnline.md)
 * [其他](其他/Others.md)
+    * [编码](其他/Encrypt.md)
+    * [编译](其他/Compile.md)
+    * [用户脚本](其他/UserScript.md)
+    * [设计模式](其他/DesignPattern.md)
 
