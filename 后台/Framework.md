@@ -33,3 +33,7 @@
 
 ### Ruby
 
+
+### Rust
+* [iron](https://github.com/iron/iron)  An Extensible, Concurrent Web Framework for Rust
+* [nickel-org/nickel.rs](https://github.com/nickel-org/nickel.rs) An expressjs inspired web framework for Rust

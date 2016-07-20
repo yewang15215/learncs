@@ -6,7 +6,8 @@
 
 
 ## Java
-  - [Java Design Patterns](http://java-design-patterns.com/patterns/)
+  - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+      + [Java Design Patterns](http://java-design-patterns.com/patterns/)
 
 
 ## JavaScript
@@ -14,8 +15,11 @@
   * [Design Patterns in Javascript ES6](https://github.com/tcorral/Design-Patterns-in-Javascript)
 
 
+## PHP
+* [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) sample code for several design patterns in PHP
+
 ## Python
-  * [A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)
+  * [faif/python-patterns](https://github.com/faif/python-patterns)
 
 
 ## Ruby
