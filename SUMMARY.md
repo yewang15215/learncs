@@ -32,6 +32,7 @@
 * [数据库](数据库/SQL.md)
 * [安全](安全/Security.md)
     * [CTF](安全/CTF.md)
+    * [安全论坛](安全/Forum.md)
 * [软件工程](软件工程/SE.md)
 * [后台](后台/BackEnd.md)
     * [框架](后台/Framework.md)
@@ -47,4 +48,5 @@
     * [编译](其他/Compile.md)
     * [用户脚本](其他/UserScript.md)
     * [设计模式](其他/DesignPattern.md)
+    * [电子书](其他/ebook.md)
 
