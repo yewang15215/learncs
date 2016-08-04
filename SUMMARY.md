@@ -30,6 +30,7 @@
 * [测试](测试/Test.md)
 * [调试](调试/Debug.md)
 * [数据库](数据库/SQL.md)
+* [嵌入式](嵌入式/Embedded.md)
 * [安全](安全/Security.md)
     * [CTF](安全/CTF.md)
     * [安全论坛](安全/Forum.md)

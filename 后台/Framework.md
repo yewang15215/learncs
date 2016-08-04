@@ -9,7 +9,7 @@
 
 ## Node.js
 * [express.js](https://github.com/expressjs/express)
-* [koa.js](https://github.com/koajs/koa)
+* [koa.js](https://github.com/koajs/koa) 下一代 Node.js web 框架，Express 原班人马打造。
     - [koa guide in Chinese](https://github.com/guo-yu/koa-guide)
 
 

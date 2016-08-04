@@ -8,6 +8,8 @@
 * [University Courses](https://github.com/prakhar1989/awesome-courses)
 
 
+## 技术发展趋势
+* [Module Counts](http://www.modulecounts.com/)
 
 ## Git
 * [git-tips/tips](https://github.com/git-tips/tips)
