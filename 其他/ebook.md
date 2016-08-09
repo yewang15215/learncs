@@ -1,14 +1,15 @@
 # 电子书
 
-## 综合
-* [mega 网盘]
-    - [epub](https://mega.nz/#F!qQUwUTKR!okYrzPOauVIaFj4GNSRZfA)
-
-
 ## 中文
-* [小书屋](http://www.xiaoshuwu.net/)
-    - [百度云](http://pan.baidu.com/share/home?uk=3339153721&view=share)
+* pdf
+    - [小书屋](http://www.xiaoshuwu.net/)
+        + [百度云](http://pan.baidu.com/share/home?uk=3339153721&view=share)
+* epub
+    - [mega 网盘](https://mega.nz/#F!qQUwUTKR!okYrzPOauVIaFj4GNSRZfA)
 
 
-## 英文
-* [All IT eBooks](http://www.allitebooks.com/)
+## 英文 
+* pdf
+    - [All IT eBooks](http://www.allitebooks.com/)
+* epub + mobi
+    - [freebooklibrary](http://books.freebooklibrary.org)
