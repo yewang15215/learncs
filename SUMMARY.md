@@ -50,4 +50,5 @@
     * [用户脚本](其他/UserScript.md)
     * [设计模式](其他/DesignPattern.md)
     * [电子书](其他/ebook.md)
+    * [CheatSheet](其他/CheatSheet.md)
 
