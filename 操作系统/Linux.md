@@ -14,5 +14,7 @@
 * [Linux 内核中文文档](https://www.gitbook.com/book/tinylab/linux-doc/details)
 
 
+
 ## 其他
 * [5 分钟 Linux 0.11 快速构建实验环境](https://github.com/tinyclub/linux-0.11-lab)
+* [Linux 工具快速教程](http://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)

@@ -16,3 +16,6 @@
 
 ## 许可证
 * [如何选择开源许可证](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
+
+## 开源
+* [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
